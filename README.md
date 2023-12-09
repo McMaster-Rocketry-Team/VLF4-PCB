@@ -44,5 +44,5 @@ SRAD Avionics from the [McMaster Rocketry Team](https://www.macrocketry.ca/)
 - Serial Wire Debug: 5 pin molex pico-clasp
 - SMA antenna connector
 
-Software (WIP, to be open sourced)
+## Software (WIP, to be open sourced)
 - Async embedded rust
