@@ -72,6 +72,19 @@
     "version": 3
   },
   "project": {
-    "files": []
+    "files": [
+      {
+        "name": "VLF4_PCB.kicad_pcb",
+        "open": false,
+        "window": {
+          "display": 0,
+          "maximized": false,
+          "pos_x": 2746,
+          "pos_y": 408,
+          "size_x": 1280,
+          "size_y": 1368
+        }
+      }
+    ]
   }
 }

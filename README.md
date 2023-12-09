@@ -2,6 +2,10 @@
 
 SRAD Avionics from the [McMaster Rocketry Team](https://www.macrocketry.ca/)
 
+![](images/a.jpg)
+
+![](images/b.jpg)
+
 ## Selling point
 
 - Pyro short circuit protection
