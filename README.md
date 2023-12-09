@@ -6,6 +6,8 @@ SRAD Avionics from the [McMaster Rocketry Team](https://www.macrocketry.ca/)
 
 ![](images/b.jpg)
 
+[Our Avionics Museum](https://mcmasterrocketry.notion.site/Void-Lake-Museum-7bf3bac829b94e0fac715c41c5d70cb9)
+
 ## Selling point
 
 - Pyro short circuit protection
