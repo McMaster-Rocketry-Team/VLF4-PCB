@@ -55,30 +55,30 @@ SRAD Avionics from the [McMaster Rocketry Team](https://www.macrocketry.ca/)
 
 ## JLCPCB Manufacturing Specifications
 
-Base Material: FR-4
-Layers: 6
-PCB Thickness: 1.6
-**Impedance Control: yes JLC06161H-3313**
-PCB Color: Black
-Silkscreen: White
-Material Type: FR-4 TG155
+- Base Material: FR-4
+- Layers: 6
+- PCB Thickness: 1.6
+- **Impedance Control: yes JLC06161H-3313**
+- PCB Color: Black
+- Silkscreen: White
+- Material Type: FR-4 TG155
 
-**Via Covering: Epoxy Filled & Capped**
-Surface Finish: ENIG
-Gold Thickness: 1 U"
-Deburring/Edge rounding: No
-Outer Copper Weight: 1 oz
-Inner Copper Weight: 0.5 oz
-Gold Fingers: No
-Flying Probe Test: Fully Test
-Castellated Holes: no
-Remove Order Number: Specify a location
-**Min via hole size/diameter: 0.2mm/(0.3/0.35mm)**
-4-Wire Kelvin Test: Yes
-Paper between PCBs: No
-Appearance Quality: IPC Class 2 Standard
-Confirm Production file: Yes
-Silkscreen Technology: Ink-jet/Screen Printing Silkscreen
-X-out board: Accept
-Package Box: With JLCPCB logo
-Board Outline Tolerance: ±0.2mm(Regular)
+- **Via Covering: Epoxy Filled & Capped**
+- Surface Finish: ENIG
+- Gold Thickness: 1 U"
+- Deburring/Edge rounding: No
+- Outer Copper Weight: 1 oz
+- Inner Copper Weight: 0.5 oz
+- Gold Fingers: No
+- Flying Probe Test: Fully Test
+- Castellated Holes: no
+- Remove Order Number: Specify a location
+- **Min via hole size/diameter: 0.2mm/(0.3/0.35mm)**
+- 4-Wire Kelvin Test: Yes
+- Paper between PCBs: No
+- Appearance Quality: IPC Class 2 Standard
+- Confirm Production file: Yes
+- Silkscreen Technology: Ink-jet/Screen Printing Silkscreen
+- X-out board: Accept
+- Package Box: With JLCPCB logo
+- Board Outline Tolerance: ±0.2mm(Regular)
